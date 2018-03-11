@@ -1,0 +1,7 @@
+# jemdoc: menu{MENU}{publications.html}
+
+#includeraw{raw.html}
+
+==Publications
+
+List of publications and javascript to draw from a BibTeX file.

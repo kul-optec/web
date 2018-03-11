@@ -1,0 +1,59 @@
+# jemdoc: menu{MENU}{research.html}, nofooter  
+==Research
+
+The sample function $f^\star(y) = \sup_{x \in X}(y^Tx - f(x))$
+appears here inline, and is in the variable $y$.
+
+\(
+x = y^s
+\)
+
+=== SuperSCS
+
+SuperSCS is a fast solver for conic problems of the form
+
+=== Embedded nonlinear model predictive control
+
+This is a C implementation of PANOC, a Proximal Averaged Newton-type method for Optimal Control.
+
+PANOC is a fast solver for nonlinear optimal control problems which arise in nonlinear model predictive control (NMPC) and other applications.
+
+Features of the method:
+
+- Very fast convergence, sub-millisecond-fast MPC
+- Low memory requirements
+- Suitable for embedded applications
+- Global convergence properties
+- Not sensitive to ill conditioning
+- Unlike SQP, does not require inner iterative procedures
+
+Features of the implementation:
+
+- Dependency-free C implementation (no libraries, C89 standard)
+- Very easy to install
+- Controller design in MATLAB, implementation in C (powered by [https://github.com/casadi/casadi/wiki CasADi])
+- Unit-tested (very high [https://codecov.io/gh/kul-forbes/EmbeddedMPC coverage])
+- Memory-leak-free (checked with [http://valgrind.org/ valgrind])
+- Detailed documentation
+- MEX interface for testing/simulation purposes
+
+PANOC comes with a MATLAB toolbox that allows the design of obstacle avoidance controllers based on nonlinear model predictive control while it produces C code (following the C89 standard) which can be used on embedded devices.
+
+~~~
+{}{img_left}{https://kul-forbes.github.io/PANOC/pics/navigation-01.png}{Obstacle Avoidance using PANOC}{599}{469}{https://kul-forbes.github.io/PANOC/pics/navigation-01.png}
+~~~
+
+{{<video width="590" controls>
+  <source src="https://kul-forbes.github.io/PANOC/pics/navigation-v0.1-001.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>}}
+
+
+See more obstacle avoidance examples here.
+
+Please, cite PANOC as follows:
+
+. L. Stella, A. Themelis, P. Sopasakis and P. Patrinos, A Simple and Efficient Algorithm for Nonlinear Model Predictive Control, IEEE CDC 2017, Melbourne, Australia, Dec 2017.
+. A. Sathya, P. Sopasakis, A. Themelis, R. Van Parys, G. Pipeleers and P. Patrinos, Embedded nonlinear model predictive control for obstacle avoidance using PANOC, submitted to ECC 2018.
+
+
