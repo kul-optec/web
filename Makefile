@@ -7,13 +7,13 @@ docs : $(HDOCS)
 
 .PHONY : update
 update : $(HDOCS)
-        @echo -n 'Copying to server...'
-        # insert code for copying to server here.
-        @echo ' done.'
+	@echo -n 'Updating...'
+	git pull
+	@echo ' done.'
 
 %.html : %.jemdoc MENU
-        ./jemdoc.py $<
+	./jemdoc.py $<
 
 .PHONY : clean
 clean :
-        -rm -f html/*.html
+	-rm -f *.html

@@ -1,13 +1,6 @@
 # jemdoc: menu{MENU}{research.html}, nofooter  
 ==Research
 
-The sample function $f^\star(y) = \sup_{x \in X}(y^Tx - f(x))$
-appears here inline, and is in the variable $y$.
-
-\(
-x = y^s
-\)
-
 === SuperSCS
 
 SuperSCS is a fast solver for conic problems of the form

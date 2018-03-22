@@ -1,7 +1,12 @@
-# jemdoc: menu{MENU}{publications.html}
-
-#includeraw{raw.html}
-
+# jemdoc: menu{MENU}{publications.html}, nofooter  
 ==Publications
 
-List of publications and javascript to draw from a BibTeX file.
+=== 2018
+
+- First item
+- Second item
+
+=== 2017
+
+Likewise
+
