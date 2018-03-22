@@ -1,0 +1,13 @@
+Menu
+    Home                [index.html]
+    Research            [research.html]
+	Publications        [publications.html]
+	Teaching            [teaching.html]  
+    People              [people.html] 
+	
+Software
+   ForBES                [https://kul-forbes.github.io/ForBES/]
+   ProximalOperators.jl	 [https://github.com/kul-forbes/ProximalOperators.jl]
+   ProximalAlgorithms.jl [https://github.com/kul-forbes/ProximalAlgorithms.jl]
+   SuperSCS              [https://kul-forbes.github.io/scs/]
+   RapidNet              [https://github.com/GPUEngineering/RapidNet]
