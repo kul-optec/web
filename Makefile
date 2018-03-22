@@ -1,20 +1,19 @@
 DOCS=index research publications teaching people
 
 HDOCS=$(addsuffix .html, $(DOCS))
-PHDOCS=$(addprefix html/, $(HDOCS))
 
 .PHONY : docs
-docs : $(PHDOCS)
+docs : $(HDOCS)
 
 .PHONY : update
-update : $(PHDOCS)
-	@echo -n 'Copying to server...'
-	# insert code for copying to server here.
-	@echo ' done.'
+update : $(HDOCS)
+        @echo -n 'Copying to server...'
+        # insert code for copying to server here.
+        @echo ' done.'
 
-html/%.html : %.jemdoc MENU
-	jemdoc -o $@ $<
+%.html : %.jemdoc MENU
+        ./jemdoc.py $<
 
 .PHONY : clean
 clean :
-	-rm -f html/*.html
+        -rm -f html/*.html
