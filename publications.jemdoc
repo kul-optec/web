@@ -9,9 +9,16 @@
 	N. Antonello, L. Stella, P. Patrinos, T. van Waterschoot
 - [https://arxiv.org/abs/1803.05256 Newton-type alternating minimization algorithm for convex optimization]\n
 	L. Stella, A. Themelis, P. Patrinos
+- [https://lirias.kuleuven.be/bitstream/123456789/617689/1/main.pdf Embedded nonlinear model predictive control for obstacle avoidance using PANOC]\n
+	A. Sathya, P. Sopasakis, A. Themelis, R. Van Parys, G. Pipeleers, and P. Patrinos
 - [https://www.sciencedirect.com/science/article/pii/S136481521730539X Uncertainty-aware demand management of water distribution networks in deregulated energy markets]\n
 	Environmental Modelling & Software, vol. 101, pp. 10–22, 2018\n
-	P. Sopasakis, A. Sampathirao, A. Bemporad, and P. Patrinos
+	P. Sopasakis, A. Sampathirao, A. Bemporad, P. Patrinos
+-[ftp://ftp.esat.kuleuven.ac.be/pub/pub/stadius/platafat/18-28.pdf Plug and Play Distributed Model Predictive Control with Dynamic Coupling: A Randomized Primal-dual Proximal Algorithm]\n
+P. Latafat, A. Bemporad, P. Patrinos
+-[A semi-parametric non-linear neural network filter: Theory and empirical evidence]
+Computational Economics, vol. 51(3), pp. 637-675, 2018\n 
+P. Michaelides, E. Tsionas, A. Vouldis, K. Konstantakis, P. Patrinos
 
 === 2017
 
