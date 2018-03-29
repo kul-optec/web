@@ -3,6 +3,10 @@
 
 === 2018
 
+- [https://arxiv.org/abs/1709.05747 Douglas-Rachford splitting and ADMM for nonconvex optimization: tight convergence results]\n
+	A. Themelis, P. Patrinos
+- [https://arxiv.org/abs/1803.01621 Proximal Gradient Algorithms: Applications in Signal Processing]\n
+	N. Antonello, L. Stella, P. Patrinos, T. van Waterschoot
 - [https://arxiv.org/abs/1803.05256 Newton-type alternating minimization algorithm for convex optimization]\n
 	L. Stella, A. Themelis, P. Patrinos
 - Second item
