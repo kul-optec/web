@@ -11,6 +11,9 @@
 	L. Stella, A. Themelis, P. Patrinos
 - [https://lirias.kuleuven.be/bitstream/123456789/617689/1/main.pdf Embedded nonlinear model predictive control for obstacle avoidance using PANOC]\n
 	A. Sathya, P. Sopasakis, A. Themelis, R. Van Parys, G. Pipeleers, P. Patrinos
+- [http://ieeexplore.ieee.org/document/7883824/ GPU-accelerated stochastic predictive control of drinking water networks]\n
+	IEEE Control Systems Technology, vol. 26, no. 3, pp. 551-562\n
+	A. Sampathirao, P. Sopasakis, A. Bemporad, P. Patrinos
 - [https://www.sciencedirect.com/science/article/pii/S136481521730539X Uncertainty-aware demand management of water distribution networks in deregulated energy markets]\n
 	Environmental Modelling & Software, vol. 101, pp. 10–22, 2018\n
 	P. Sopasakis, A. Sampathirao, A. Bemporad, P. Patrinos
@@ -23,38 +26,35 @@
 	P. Latafat, P. Patrinos
 
 === 2017
-- [Asymmetric forward-backward-adjoint splitting for solving monotone inclusions involving three operators]\n
+- [https://link.springer.com/article/10.1007/s10589-017-9909-6 Asymmetric forward-backward-adjoint splitting for solving monotone inclusions involving three operators]\n
 	Computational Optimization & Applications, vol. 68, no. 1, pp. 57–93, 2017\n
 	P. Latafat and P. Patrinos
-- [Forward-backward quasi-Newton methods for nonsmooth optimization problems]\n
+- [https://link.springer.com/article/10.1007/s10589-017-9912-y Forward-backward quasi-Newton methods for nonsmooth optimization problems]\n
 	Computational Optimization & Applications, vol. 67, no. 3, pp. 443–487, 2017\n
 	L. Stella, A. Themelis, and P. Patrinos
-- [Multidisciplinary learning through implementation of the DVB-S2 standard]\n
+- [http://ieeexplore.ieee.org/abstract/document/7926929/ Multidisciplinary learning through implementation of the DVB-S2 standard]\n
 	IEEE Communications Magazine, vol. 55, no. 5, pp. 124–130, 2017\n
 	Y. Murillo, B. Van den Bergh, J. Beysens, A. Bertrand, W. Dehaene, P. Patrinos, T. Tuytelaars, R. V. Sabariego, M. Verhelst, P. Wambacq, S. Pollin
-- [GPU-accelerated stochastic predictive control of drinking water networks]\n
-	IEEE Control Systems Technology, vol. 26, no. 3, pp. 551-562\n
-	A. Sampathirao, P. Sopasakis, A. Bemporad, P. Patrinos
-- [Risk-averse model predictive control]\n
+- [https://arxiv.org/abs/1704.00342 Risk-averse model predictive control]\n
 	D. Herceg, P. Sopasakis, A. Bemporad, P. Patrinos
-- [A new randomized block-coordinate primal-dual algorithm for distributed optimization]\n
+- [https://arxiv.org/abs/1706.02882 A new randomized block-coordinate primal-dual algorithm for distributed optimization]\n
 	P. Latafat, N. Freris, and P. Patrinos
 - [https://arxiv.org/abs/1709.06487 A simple and efficient optimization algorithm for nonlinear MPC]\n
 	2017 IEEE 56th Annual Conference on Decision and Control (CDC), pp. 1939-1944, 2017\n
 	L. Stella, A. Themelis, P. Sopasakis, P. Patrinos
-- [A primal-dual line search method and applications in image processing]\n
+- [http://ieeexplore.ieee.org/abstract/document/8081371/ A primal-dual line search method and applications in image processing]\n
 	25th European Signal Processing Conference (EUSIPCO), pp. 1100–1104, 2017\n
 	P. Sopasakis, A. Themelis, J. Suykens, and P. Patrinos
-- [Data-driven modelling, learning and stochastic predictive control for the steel industry]\n
+- [http://ieeexplore.ieee.org/abstract/document/7984308/ Data-driven modelling, learning and stochastic predictive control for the steel industry]\n
 	25th Mediterranean Conference on Control and Automation, pp. 1361–1366, 2017\n
 	D. Herceg, G. Georgoulas, P. Sopasakis, M. Castano, P. Patrinos, A. Bemporad, J. Niemi, G. Nikolakopoulos
-- [Proximal limited-memory quasi-Newton methods for scenario-based stochastic optimal control]\n
+- [https://www.sciencedirect.com/science/article/pii/S2405896317319146 Proximal limited-memory quasi-Newton methods for scenario-based stochastic optimal control]\n
 	20th IFAC World Congress, Toulouse, France, pp. 11865–11870, 2017\n
 	A. Sampathirao, P. Sopasakis, A. Bemporad, P. Patrinos
-- [Stochastic economic model predictive control for markovian switching systems]\n
+- [https://www.sciencedirect.com/science/article/pii/S2405896317300733 Stochastic economic model predictive control for Markovian switching systems]\n
 	20th IFAC World Congress, Toulouse, France, pp. 524–530, 2017\n
 	P. Sopasakis, D. Herceg, P. Patrinos, A. Bemporad
-- [Modeling and administration scheduling of fractional-order pharmacokinetic systems]
+- [https://www.sciencedirect.com/science/article/pii/S2405896317328471 Modeling and administration scheduling of fractional-order pharmacokinetic systems]
 	20th IFAC World Congress, Toulouse, France, pp. 9742–9747, 2017\n
 	D. Herceg, S. Ntouskas, P. Sopasakis, A. Dokoumetzidis, P. Macheras, H. Sarimveis, P. Patrinos
 
