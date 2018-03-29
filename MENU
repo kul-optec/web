@@ -1,9 +1,10 @@
 Menu
     Home                [index.html]
     Research            [research.html]
-	Publications    [publications.html]
-	Teaching        [teaching.html]  
+    Publications        [publications.html]
+    Teaching            [teaching.html]  
     People              [people.html] 
+    Research projects   [projects.html]
 	
 Software
    ForBES                [https://kul-forbes.github.io/ForBES/]
@@ -11,10 +12,4 @@ Software
    ProximalAlgorithms.jl [https://github.com/kul-forbes/ProximalAlgorithms.jl]
    SuperSCS              [https://kul-forbes.github.io/scs/]
    RapidNet              [https://github.com/GPUEngineering/RapidNet]
-
-Research Projects
-   Structured optimization algorithms [http://www.esat.kuleuven.be/stadius/project.php?id=1175]
-   Newton Operator Splitting for CPS [http://www.esat.kuleuven.be/stadius/project.php?id=1013]
-   Risk averse Control/Optimization [http://www.esat.kuleuven.be/stadius/project.php?id=1176]
-   Selma		 [http://www.esat.kuleuven.be/stadius/project.php?id=1173]
    
