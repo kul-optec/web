@@ -19,7 +19,7 @@ Features of the method:
 - Suitable for embedded applications
 - Global convergence properties
 - Not sensitive to ill conditioning
-- Unlike SQP, does not require inner iterative procedures
+- Unlike SQP, does not a quadratic programming (QP) solver
 
 Features of the implementation:
 
