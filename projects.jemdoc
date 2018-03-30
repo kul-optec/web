@@ -1,7 +1,8 @@
 # jemdoc: menu{MENU}{projects.html}, nofooter 
-[https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
 == Active Research Projects
+[https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
+
 - [http://www.esat.kuleuven.be/stadius/project.php?id=1175 A unifying algorithmic framework for structured optimization]
 - [http://www.esat.kuleuven.be/stadius/project.php?id=1013 Newton-Type Operator Splitting Methods for Real-Time Optimization of Cyberphysical Systems]
 - [http://www.esat.kuleuven.be/stadius/project.php?id=1176 Risk-averse Control and Dynamic Optimization Bridging the Gap Between Robust and Stochastic Control]
