@@ -80,5 +80,23 @@ A. Themelis, V. Silvia, P. Patrinos, A. Bemporad
 24th European Signal Processing Conference (EUSIPCO), pp. 1078–1082, 2016\n
 P. Sopasakis, N. Freris, P. Patrinos
 
+=== 2015
+- [http://ieeexplore.ieee.org/abstract/document/7403352/ Distributed solution of stochastic optimal control problems on GPUs]\n
+IEEE 54th Conference on Decision and Control, pp. 7183–7188, 2015\n
+A. K. Sampathirao, P. Sopasakis, A. Bemporad, P. Patrinos
+- [http://ieeexplore.ieee.org/abstract/document/6985596/ Model predictive control for linear impulsive systems]\n
+IEEE Transactions on Automatic Control, vol. 60, no. 8, pp. 2277–2282, 2015\n
+P. Sopasakis, P. Patrinos, H. Sarimveis, A. Bemporad
+- [http://ieeexplore.ieee.org/abstract/document/7330731/ Constrained model predictive control of spacecraft attitude with reaction wheels desaturation]\n
+European Control Conference (ECC), pp. 1382–1387, 2015\n
+A. Guiggiani, I. Kolmanovsky, P. Patrinos, A. Bemporad
+- [http://ieeexplore.ieee.org/abstract/document/7171078/ Fixed-point constrained model predictive control of spacecraft attitude]\n
+American Control Conference (ACC), 2015, pp. 2317– 2322, 2015\n
+A. Guiggiani, I. Kolmanovsky, P. Patrinos, A. Bemporad
+- [https://www.sciencedirect.com/science/article/pii/S0005109815001065 A dual gradient-projection algorithm for model predictive control in fixed-point arithmetic]\n
+Automatica, vol. 55, pp. 226–235, 2015\n
+P. Patrinos, A. Guiggiani, A. Bemporad
+- [https://arxiv.org/abs/1502.07974 A convex feasibility approach to anytime model predictive control]\n
+A. Bemporad, D. Bernardini, P. Patrinos\n
 
 
