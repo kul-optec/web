@@ -63,22 +63,7 @@
 - [http://onlinelibrary.wiley.com/doi/10.1002/rnc.3507/full Real‐time model predictive control based on dual gradient projection: Theory and fixed‐point FPGA implementation]\n
 International Journal of Robust and Nonlinear Control, vol. 26, no. 15, pp. 3292–3310, 2016\n
 M. Rubagotti, P. Patrinos, A. Guiggiani, A. Bemporad
-- [https://arxiv.org/abs/1609.06955 SuperMann: a superlinearly convergent algorithm for finding fixed points of nonexpansive operators]\n
-A. Themelis, P. Patrinos
-- [https://arxiv.org/abs/1606.06256 Forward-backward envelope for the sum of two nonconvex functions: Further properties and nonmonotone line-search algorithms]\n
-A. Themelis, L. Stella, and P. Patrinos
-- [http://ieeexplore.ieee.org/abstract/document/7798551/ New primal-dual proximal algorithm for distributed optimization]\n
-IEEE 55th Conference on Decision and Control (CDC), Las Vegas, USA, pp. 1959-1964, 2016\n
-P. Latafat, L. Stella, P. Patrinos
-- [http://ieeexplore.ieee.org/abstract/document/7852360/ Distributed computing over encrypted data]\n
-54th Annual Allerton Conference on Communication, Control, and Computing, pp. 1116–1122, 2016\n
-N. Freris, P. Patrinos
--[http://ieeexplore.ieee.org/abstract/document/7760414/ Accelerated reconstruction of a compressively sampled data stream]\n
-24th European Signal Processing Conference (EUSIPCO), pp. 1078–1082\n
-P. Sopasakis, N. Freris, and P. Patrinos
-- [http://ieeexplore.ieee.org/abstract/document/7810279/ Stochastic gradient methods for stochastic model predictive control]\n
-European Control Conference (ECC), pp. 154–159, 2016\n
-A. Themelis, V. Silvia, P. Patrinos, A. Bemporad
+
 
 
 
