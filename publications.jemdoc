@@ -100,8 +100,35 @@ P. Patrinos, A. Guiggiani, A. Bemporad
 A. Bemporad, D. Bernardini, P. Patrinos\n
 
 === 2014
+- [http://ieeexplore.ieee.org/abstract/document/7040049/ Douglas-Rachford splitting: Complexity estimates and accelerated variants]\n
+IEEE 53rd Annual Conference on Decision and Control (CDC), pp. 4234– 4239, 2014\n
+P. Patrinos, L. Stella, A. Bemporad
 - [http://ieeexplore.ieee.org/abstract/document/7040052/ A proximal alternating minimization method for $\ell_0$-regularized nonlinear optimization problems: application to state estimation]\n
 53rd IEEE Conference on Decision and Control (CDC), pp. 4254–4259, 2014\n
-A. Patrascu, I. Necoara, and P. Patrinos
+A. Patrascu, I. Necoara, P. Patrinos
+- [https://www.sciencedirect.com/science/article/pii/S0169260714002107 https://www.sciencedirect.com/science/article/pii/S0169260714002107]\n
+Computer methods and programs in biomedicine, vol. 116, no. 3, pp. 193–204, 2014\n
+P. Sopasakis, P. Patrinos, H. Sarimveis
+- [https://www.sciencedirect.com/science/article/pii/S0005109814003471 Stochastic model predictive control for constrained discrete-time Markovian switching systems]\n
+Automatica, vol. 50, no. 10, pp. 2504–2514, 2014\n
+P. Patrinos, P. Sopasakis, H. Sarimveis, and A. Bemporad
+- [http://ieeexplore.ieee.org/abstract/document/6725631/ Stabilizing linear model predictive control under inexact numerical optimization]\n
+IEEE Transactions on Automatic Control, vol. 59, no. 6, pp. 1660–1666, 2014\n
+M. Rubagotti, P. Patrinos, and A. Bemporad
+- [http://ieeexplore.ieee.org/abstract/document/6632877/ MPC for sampled-data linear systems: Guaranteeing constraint satisfaction in continuous-time]\n
+IEEE Transactions on Automatic Control, vol. 59, no. 4, pp. 1088–1093, 2014\n
+P. Sopasakis, P. Patrinos, and H. Sarimveis
+- [https://arxiv.org/abs/1402.6655 Forward-backward truncated Newton methods for convex composite optimization]\n
+P. Patrinos, L. Stella, A. Bemporad.
+- [https://www.sciencedirect.com/science/article/pii/S1474667016433872 MPC for power systems dispatch based on stochastic optimization]\n
+19th IFAC World Congress, pp. 11147–11152, 2014\n
+I. Necoara, D. N. Clipici, P. Patrinos, A. Bemporad
+- [https://www.sciencedirect.com/science/article/pii/S1474667016420549 Fixed-point implementation of a proximal Newton method for embedded model predictive control]\n
+19th IFAC World Congress, pp. 2921–2926, 2014\n
+A. Guiggiani, P. Patrinos, A. Bemporad
+- [http://ieeexplore.ieee.org/abstract/document/6571216/ An accelerated dual gradient-projection algorithm for embedded linear model predictive control]\n
+IEEE Transactions on Automatic Control, vol. 59, no. 1, pp. 18–33, 2014\n
+P. Patrinos and A. Bemporad
+
 
 
