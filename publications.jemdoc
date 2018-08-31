@@ -31,6 +31,8 @@ A. Themelis, L. Stella, and P. Patrinos
 	P. Michaelides, E. Tsionas, A. Vouldis, K. Konstantakis, P. Patrinos
 - Primal-Dual Proximal Algorithms for Structured Convex Optimization: A Unifying Framework\n
 	P. Latafat, P. Patrinos
+- On the acceleration of forward-backward splitting via an inexact Newton method\n
+A. Themelis, M. Ahookhosh, P. Patrinos
 
 === 2017
 - [https://link.springer.com/article/10.1007/s10589-017-9909-6 Asymmetric forward-backward-adjoint splitting for solving monotone inclusions involving three operators]\n
