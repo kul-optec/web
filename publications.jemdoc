@@ -3,7 +3,12 @@
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
 === 2018
-
+- [https://epubs.siam.org/doi/abs/10.1137/16M1080240 Forward-backward envelope for the sum of two nonconvex functions: Further properties and nonmonotone line-search algorithms]\n
+SIAM Journal on Optimization, vol. 28, no.3, pp. 2274–2303\n
+A. Themelis, L. Stella, and P. Patrinos
+- Multi-Agent Optimization With Bounded Communication Delays: A Primal-Dual Proximal Algorithm\n
+	CDC 2018\n
+	P. Latafat, P. Patrinos
 - [https://arxiv.org/abs/1709.05747 Douglas-Rachford splitting and ADMM for nonconvex optimization: tight convergence results]\n
 	A. Themelis, P. Patrinos
 - [https://arxiv.org/abs/1803.01621 Proximal Gradient Algorithms: Applications in Signal Processing]\n
@@ -19,6 +24,7 @@
 	Environmental Modelling & Software, vol. 101, pp. 10–22, 2018\n
 	P. Sopasakis, A. Sampathirao, A. Bemporad, P. Patrinos
 - [ftp://ftp.esat.kuleuven.ac.be/pub/pub/stadius/platafat/18-28.pdf Plug and Play Distributed Model Predictive Control with Dynamic Coupling: A Randomized Primal-dual Proximal Algorithm]\n
+	ECC 2018\n
 	P. Latafat, A. Bemporad, P. Patrinos
 - [https://link.springer.com/article/10.1007/s10614-016-9628-6 A semi-parametric non-linear neural network filter: Theory and empirical evidence]\n
 	Computational Economics, vol. 51(3), pp. 637-675, 2018\n 
@@ -65,8 +71,6 @@ International Journal of Robust and Nonlinear Control, vol. 26, no. 15, pp. 3292
 M. Rubagotti, P. Patrinos, A. Guiggiani, A. Bemporad
 - [https://arxiv.org/abs/1609.06955 SuperMann: a superlinearly convergent algorithm for finding fixed points of nonexpansive operators]\n
 A. Themelis, P. Patrinos
-- [https://arxiv.org/abs/1606.06256 Forward-backward envelope for the sum of two nonconvex functions: Further properties and nonmonotone line-search algorithms]\n
-A. Themelis, L. Stella, and P. Patrinos
 - [http://ieeexplore.ieee.org/abstract/document/7798551/ New primal-dual proximal algorithm for distributed optimization]\n
 IEEE 55th Conference on Decision and Control (CDC), Las Vegas, USA, pp. 1959-1964, 2016\n
 P. Latafat, L. Stella, P. Patrinos
