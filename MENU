@@ -10,6 +10,7 @@ Software
    StructuredOptimization.jl	[https://github.com/kul-forbes/StructuredOptimization.jl]
    ProximalOperators.jl		[https://github.com/kul-forbes/ProximalOperators.jl]
    ProximalAlgorithms.jl	[https://github.com/kul-forbes/ProximalAlgorithms.jl]
+   nmpc-codegen 		[https://github.com/kul-forbes/nmpc-codegen]
    ForBES                	[https://kul-forbes.github.io/ForBES/]
    SuperSCS			[https://kul-forbes.github.io/scs/]
    RapidNet			[https://github.com/GPUEngineering/RapidNet]
