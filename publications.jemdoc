@@ -6,7 +6,7 @@
 - [https://epubs.siam.org/doi/abs/10.1137/16M1080240 Forward-backward envelope for the sum of two nonconvex functions: Further properties and nonmonotone line-search algorithms]\n
 SIAM Journal on Optimization, vol. 28, no.3, pp. 2274–2303\n
 A. Themelis, L. Stella, and P. Patrinos
-- [https://arxiv.org/abs/1809.07199 Multi-Agent Optimization With Bounded Communication Delays: A Primal-Dual Proximal Algorithm]\n
+- [https://arxiv.org/abs/1809.07199 Multi-agent structured optimization over message-passing architectures with bounded communication delays]\n
 	CDC 2018\n
 	P. Latafat, P. Patrinos
 - [https://arxiv.org/abs/1709.05747 Douglas-Rachford splitting and ADMM for nonconvex optimization: tight convergence results]\n
