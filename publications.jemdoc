@@ -3,12 +3,12 @@
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
 === 2018
-- [https://epubs.siam.org/doi/abs/10.1137/16M1080240 Forward-backward envelope for the sum of two nonconvex functions: Further properties and nonmonotone line-search algorithms]\n
-SIAM Journal on Optimization, vol. 28, no.3, pp. 2274–2303\n
-A. Themelis, L. Stella, and P. Patrinos
 - [https://arxiv.org/abs/1809.07199 Multi-agent structured optimization over message-passing architectures with bounded communication delays]\n
 	CDC 2018\n
 	P. Latafat, P. Patrinos
+- [https://epubs.siam.org/doi/abs/10.1137/16M1080240 Forward-backward envelope for the sum of two nonconvex functions: Further properties and nonmonotone line-search algorithms]\n
+SIAM Journal on Optimization, vol. 28, no.3, pp. 2274–2303\n
+A. Themelis, L. Stella, and P. Patrinos
 - [https://arxiv.org/abs/1709.05747 Douglas-Rachford splitting and ADMM for nonconvex optimization: tight convergence results]\n
 	A. Themelis, P. Patrinos
 - [https://arxiv.org/abs/1809.06062 Risk-Averse Model Predictive Operation Control of Islanded Microgrids]\n
@@ -18,6 +18,9 @@ A. Themelis, L. Stella, and P. Patrinos
 - [https://arxiv.org/abs/1803.05256 Newton-type alternating minimization algorithm for convex optimization]\n
 	IEEE Transactions on Automatic Control (to appear)\n
 	L. Stella, A. Themelis, P. Patrinos
+- [https://arxiv.org/abs/1805.02524 A penalty method based approach for autonomous navigation using nonlinear model predictive control]\n
+	6th IFAC Conference on Nonlinear Model Predictive Control, 2018, pp. 1523 - 1528\n
+	A. Sathya, P. Sopasakis, A. Themelis, R. Van Parys, G. Pipeleers, P. Patrinos
 - [https://lirias.kuleuven.be/bitstream/123456789/617689/1/main.pdf Embedded nonlinear model predictive control for obstacle avoidance using PANOC]\n
 	European Control Conference, 2018, pp. 1523 - 1528\n
 	A. Sathya, P. Sopasakis, A. Themelis, R. Van Parys, G. Pipeleers, P. Patrinos
