@@ -3,6 +3,12 @@
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
 === 2018
+- [https://arxiv.org/abs/1706.02882 A new randomized block-coordinate primal-dual algorithm for distributed optimization]\n
+	IEEE Transactions on Automatic Control (to appear)\n
+	P. Latafat, N. Freris, and P. Patrinos
+- [https://arxiv.org/abs/1704.00342 Risk-averse model predictive control]\n
+	Automatica (to appear)\n
+	P. Sopasakis, D. Herceg, A. Bemporad, P. Patrinos
 - [https://arxiv.org/abs/1809.07199 Multi-agent structured optimization over message-passing architectures with bounded communication delays]\n
 	CDC 2018\n
 	P. Latafat, P. Patrinos
@@ -36,7 +42,8 @@ A. Themelis, L. Stella, and P. Patrinos
 - [https://link.springer.com/article/10.1007/s10614-016-9628-6 A semi-parametric non-linear neural network filter: Theory and empirical evidence]\n
 	Computational Economics, vol. 51(3), pp. 637-675, 2018\n 
 	P. Michaelides, E. Tsionas, A. Vouldis, K. Konstantakis, P. Patrinos
-- Primal-Dual Proximal Algorithms for Structured Convex Optimization: A Unifying Framework\n
+- [https://www.springer.com/us/book/9783319974774 Primal-Dual Proximal Algorithms for Structured Convex Optimization: A Unifying Framework]\n
+	in Large-Scale and Distributed Optimization, Eds. P. Giselsson, A. Rantzer\nss
 	P. Latafat, P. Patrinos
 - On the acceleration of forward-backward splitting via an inexact Newton method\n
 A. Themelis, M. Ahookhosh, P. Patrinos
@@ -51,10 +58,6 @@ A. Themelis, M. Ahookhosh, P. Patrinos
 - [http://ieeexplore.ieee.org/abstract/document/7926929/ Multidisciplinary learning through implementation of the DVB-S2 standard]\n
 	IEEE Communications Magazine, vol. 55, no. 5, pp. 124–130, 2017\n
 	Y. Murillo, B. Van den Bergh, J. Beysens, A. Bertrand, W. Dehaene, P. Patrinos, T. Tuytelaars, R. V. Sabariego, M. Verhelst, P. Wambacq, S. Pollin
-- [https://arxiv.org/abs/1704.00342 Risk-averse model predictive control]\n
-	D. Herceg, P. Sopasakis, A. Bemporad, P. Patrinos
-- [https://arxiv.org/abs/1706.02882 A new randomized block-coordinate primal-dual algorithm for distributed optimization]\n
-	P. Latafat, N. Freris, and P. Patrinos
 - [https://arxiv.org/abs/1709.06487 A simple and efficient optimization algorithm for nonlinear MPC]\n
 	2017 IEEE 56th Annual Conference on Decision and Control (CDC), pp. 1939-1944, 2017\n
 	L. Stella, A. Themelis, P. Sopasakis, P. Patrinos
