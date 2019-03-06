@@ -2,6 +2,19 @@
 == Panos Patrinos -- Publications
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
+=== 2019
+- [https://arxiv.org/abs/1903.01818 Inertial Block Mirror Descent Method for Non-Convex Non-Smooth Optimization]\n
+L.T.K Hien, N. Gillis, P. Patrinos
+- SuperSCS: fast and accurate large-scale conic optimization\n
+ in European Control Conference (ECC), Naples, Italy, 2019\n
+P. Sopasakis, K. Menounou, and P. Patrinos
+- Risk-averse risk-constrained optimal control\n 
+in European Control Conference (ECC), Naples, Italy, 2019\n
+P. Sopasakis, M. Schuurmans, and P. Patrinos
+- Aerial navigation in ob- structed environments with embedded nonlinear model predictive control\n 
+in European Control Conference (ECC), Naples, Italy, 2019\n
+E. Small, P. Sopasakis, E. Fresk, P. Patrinos, and G. Nikolakopoulos
+
 === 2018
 - [https://arxiv.org/abs/1706.02882 A new randomized block-coordinate primal-dual algorithm for distributed optimization]\n
 	IEEE Transactions on Automatic Control (to appear)\n
