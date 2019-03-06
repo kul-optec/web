@@ -3,6 +3,9 @@
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
 === 2019
+- [https://arxiv.org/abs/1803.05256 Newton-type alternating minimization algorithm for convex optimization]\n
+	IEEE Transactions on Automatic Control, vol. 64, no. 2, pp. 697-711\n
+	L. Stella, A. Themelis, P. Patrinos
 - [https://arxiv.org/abs/1903.01818 Inertial Block Mirror Descent Method for Non-Convex Non-Smooth Optimization]\n
 L.T.K Hien, N. Gillis, P. Patrinos
 - [https://arxiv.org/abs/1812.04755 Aerial navigation in obstructed environments with embedded nonlinear model predictive control]\n
@@ -36,9 +39,6 @@ A. Themelis, L. Stella, and P. Patrinos
 	C.A. Hans, P. Sopasakis, J. Raisch, C. Reincke-Collon, P. Patrinos
 - [https://arxiv.org/abs/1803.01621 Proximal Gradient Algorithms: Applications in Signal Processing]\n
 	N. Antonello, L. Stella, P. Patrinos, T. van Waterschoot
-- [https://arxiv.org/abs/1803.05256 Newton-type alternating minimization algorithm for convex optimization]\n
-	IEEE Transactions on Automatic Control (to appear)\n
-	L. Stella, A. Themelis, P. Patrinos
 - [https://arxiv.org/abs/1805.02524 A penalty method based approach for autonomous navigation using nonlinear model predictive control]\n
 	6th IFAC Conference on Nonlinear Model Predictive Control, 2018\n
 	B. Hermans, P. Patrinos, G. Pipeleers
