@@ -4,10 +4,13 @@
 
 === 2019
 - [https://arxiv.org/abs/1803.05256 Newton-type alternating minimization algorithm for convex optimization]\n
-	IEEE Transactions on Automatic Control, vol. 64, no. 2, pp. 697-711\n
+	IEEE Transactions on Automatic Control, vol. 64, no. 2, pp. 697-711, 2019\n
 	L. Stella, A. Themelis, P. Patrinos
 - [https://arxiv.org/abs/1903.01818 Inertial Block Mirror Descent Method for Non-Convex Non-Smooth Optimization]\n
 L.T.K Hien, N. Gillis, P. Patrinos
+- [https://arxiv.org/abs/1704.00342 Risk-averse model predictive control]\n
+	Automatica, vol. 100, pp. 281-289, 2019\n
+	P. Sopasakis, D. Herceg, A. Bemporad, P. Patrinos
 - [https://arxiv.org/abs/1812.04755 Aerial navigation in obstructed environments with embedded nonlinear model predictive control]\n
 in European Control Conference (ECC), Naples, Italy, 2019\n
 E. Small, P. Sopasakis, E. Fresk, P. Patrinos, G. Nikolakopoulos
@@ -19,14 +22,10 @@ in European Control Conference (ECC), Naples, Italy, 2019\n
 P. Sopasakis, M. Schuurmans, and P. Patrinos
 
 
-
 === 2018
 - [https://arxiv.org/abs/1706.02882 A new randomized block-coordinate primal-dual algorithm for distributed optimization]\n
 	IEEE Transactions on Automatic Control (to appear)\n
 	P. Latafat, N. Freris, and P. Patrinos
-- [https://arxiv.org/abs/1704.00342 Risk-averse model predictive control]\n
-	Automatica, vol. 100, pp. 281-289\n
-	P. Sopasakis, D. Herceg, A. Bemporad, P. Patrinos
 - [https://arxiv.org/abs/1809.07199 Multi-agent structured optimization over message-passing architectures with bounded communication delays]\n
 	CDC 2018\n
 	P. Latafat, P. Patrinos
