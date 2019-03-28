@@ -5,6 +5,12 @@
 === 2019
 - [https://arxiv.org/abs/1903.10040 Safe Learning-Based Control of Stochastic Jump Linear Systems: a Distributionally Robust Approach]\n
 	M. Schuurmans, P. Sopasakis, P. Patrinos
+- [https://arxiv.org/abs/1609.06955 SuperMann: a superlinearly convergent algorithm for finding fixed points of nonexpansive operators]\n
+	IEEE Transactions on Automatic Control\n
+	A. Themelis, P. Patrinos
+- [https://arxiv.org/abs/1706.02882 A new randomized block-coordinate primal-dual algorithm for distributed optimization]\n
+	IEEE Transactions on Automatic Control\n
+	P. Latafat, N. Freris, and P. Patrinos
 - [https://arxiv.org/abs/1803.05256 Newton-type alternating minimization algorithm for convex optimization]\n
 	IEEE Transactions on Automatic Control, vol. 64, no. 2, pp. 697-711, 2019\n
 	L. Stella, A. Themelis, P. Patrinos
@@ -25,9 +31,6 @@ P. Sopasakis, M. Schuurmans, and P. Patrinos
 
 
 === 2018
-- [https://arxiv.org/abs/1706.02882 A new randomized block-coordinate primal-dual algorithm for distributed optimization]\n
-	IEEE Transactions on Automatic Control (to appear)\n
-	P. Latafat, N. Freris, and P. Patrinos
 - [https://arxiv.org/abs/1809.07199 Multi-agent structured optimization over message-passing architectures with bounded communication delays]\n
 	CDC 2018\n
 	P. Latafat, P. Patrinos
@@ -97,8 +100,6 @@ A. Themelis, M. Ahookhosh, P. Patrinos
 - [http://onlinelibrary.wiley.com/doi/10.1002/rnc.3507/full Real‐time model predictive control based on dual gradient projection: Theory and fixed‐point FPGA implementation]\n
 International Journal of Robust and Nonlinear Control, vol. 26, no. 15, pp. 3292–3310, 2016\n
 M. Rubagotti, P. Patrinos, A. Guiggiani, A. Bemporad
-- [https://arxiv.org/abs/1609.06955 SuperMann: a superlinearly convergent algorithm for finding fixed points of nonexpansive operators]\n
-A. Themelis, P. Patrinos
 - [http://ieeexplore.ieee.org/abstract/document/7798551/ New primal-dual proximal algorithm for distributed optimization]\n
 IEEE 55th Conference on Decision and Control (CDC), Las Vegas, USA, pp. 1959-1964, 2016\n
 P. Latafat, L. Stella, P. Patrinos
