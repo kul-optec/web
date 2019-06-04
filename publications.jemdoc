@@ -3,6 +3,8 @@
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
 === 2019
+- [https://arxiv.org/pdf/1905.11904.pdf Bregman forward-backward splitting for nonconvex composite optimization: superlinear convergence to nonisolated critical points]\n
+	M. Ahookhosh, A. Themelis, P. Patrinos
 - [https://arxiv.org/abs/1903.12091 Nonlinear Model Predictive Control for Distributed Motion Planning in Road Intersections Using PANOC]\n
 	A. Katriniok, M. Schuurmans, P. Sopasakis, P. Patrinos
 - [https://arxiv.org/abs/1903.10040 Safe Learning-Based Control of Stochastic Jump Linear Systems: a Distributionally Robust Approach]\n
