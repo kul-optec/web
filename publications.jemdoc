@@ -5,7 +5,7 @@
 === 2019
 - [https://arxiv.org/pdf/1906.10053.pdf Block-coordinate and incremental aggregated nonconvex proximal gradient methods: a unified view]\n
 	P. Latafat, A. Themelis, P. Patrinos
-- [https://arxiv.org/pdf/1905.11904.pdf https://arxiv.org/pdf/1908.01402.pdf Multi-block Bregman proximal alternating linearized minimization and its application to sparse orthogonal nonnegative matrix factorization]\n
+- [https://arxiv.org/pdf/1908.01402.pdf Multi-block Bregman proximal alternating linearized minimization and its application to sparse orthogonal nonnegative matrix factorization]\n
 	M. Ahookhosh, L.T.K Hien, N. Gillis, P. Patrinos
 - [https://arxiv.org/pdf/1905.11904.pdf Bregman forward-backward splitting for nonconvex composite optimization: superlinear convergence to nonisolated critical points]\n
 	M. Ahookhosh, A. Themelis, P. Patrinos
@@ -48,8 +48,8 @@
 	CDC 2018\n
 	P. Latafat, P. Patrinos
 - [https://epubs.siam.org/doi/abs/10.1137/16M1080240 Forward-backward envelope for the sum of two nonconvex functions: Further properties and nonmonotone line-search algorithms]\n
-SIAM Journal on Optimization, vol. 28, no.3, pp. 2274–2303\n
-A. Themelis, L. Stella, and P. Patrinos
+	SIAM Journal on Optimization, vol. 28, no.3, pp. 2274–2303\n
+	A. Themelis, L. Stella, and P. Patrinos
 - [https://arxiv.org/abs/1709.05747 Douglas-Rachford splitting and ADMM for nonconvex optimization: tight convergence results]\n
 	A. Themelis, P. Patrinos
 - [https://arxiv.org/abs/1809.06062 Risk-Averse Model Predictive Operation Control of Islanded Microgrids]\n
@@ -78,7 +78,7 @@ A. Themelis, L. Stella, and P. Patrinos
 	in Large-Scale and Distributed Optimization, Eds. P. Giselsson, A. Rantzer\n
 	P. Latafat, P. Patrinos
 - [https://arxiv.org/pdf/1811.02935.pdf On the Acceleration of Forward-Backward Splitting via an Inexact Newton Method]\n
-A. Themelis, M. Ahookhosh, P. Patrinos
+	A. Themelis, M. Ahookhosh, P. Patrinos
 
 === 2017
 - [https://link.springer.com/article/10.1007/s10589-017-9909-6 Asymmetric forward-backward-adjoint splitting for solving monotone inclusions involving three operators]\n
