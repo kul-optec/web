@@ -5,11 +5,18 @@
 === 2019
 - [https://arxiv.org/pdf/1906.10053.pdf Block-coordinate and incremental aggregated nonconvex proximal gradient methods: a unified view]\n
 	P. Latafat, A. Themelis, P. Patrinos
+- [https://arxiv.org/pdf/1905.11904.pdf https://arxiv.org/pdf/1908.01402.pdf Multi-block Bregman proximal alternating linearized minimization and its application to sparse orthogonal nonnegative matrix factorization]\n
+	M. Ahookhosh, L.T.K Hien, N. Gillis, P. Patrinos
 - [https://arxiv.org/pdf/1905.11904.pdf Bregman forward-backward splitting for nonconvex composite optimization: superlinear convergence to nonisolated critical points]\n
 	M. Ahookhosh, A. Themelis, P. Patrinos
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8756205 Optimal Dynamic Spectrum Management Algorithms for Multi-User Full-Duplex DSL]\n
+	IEEE Access\n
+	J Verdyck, W Lanneer, P Tsiaflakis, W Coomans, P Patrinos, M Moonen
 - [https://arxiv.org/abs/1903.12091 Nonlinear Model Predictive Control for Distributed Motion Planning in Road Intersections Using PANOC]\n
+ 	in 58th IEEE Conference on Decision and Control (CDC), Nice, France, 2019\n
 	A. Katriniok, M. Schuurmans, P. Sopasakis, P. Patrinos
 - [https://arxiv.org/abs/1903.10040 Safe Learning-Based Control of Stochastic Jump Linear Systems: a Distributionally Robust Approach]\n
+ 	in 58th IEEE Conference on Decision and Control (CDC), Nice, France, 2019\n
 	M. Schuurmans, P. Sopasakis, P. Patrinos
 - [https://arxiv.org/abs/1609.06955 SuperMann: a superlinearly convergent algorithm for finding fixed points of nonexpansive operators]\n
 	IEEE Transactions on Automatic Control\n
@@ -21,19 +28,19 @@
 	IEEE Transactions on Automatic Control, vol. 64, no. 2, pp. 697-711, 2019\n
 	L. Stella, A. Themelis, P. Patrinos
 - [https://arxiv.org/abs/1903.01818 Inertial Block Mirror Descent Method for Non-Convex Non-Smooth Optimization]\n
-L.T.K Hien, N. Gillis, P. Patrinos
+	L.T.K Hien, N. Gillis, P. Patrinos
 - [https://arxiv.org/abs/1704.00342 Risk-averse model predictive control]\n
 	Automatica, vol. 100, pp. 281-289, 2019\n
 	P. Sopasakis, D. Herceg, A. Bemporad, P. Patrinos
 - [https://arxiv.org/abs/1812.04755 Aerial navigation in obstructed environments with embedded nonlinear model predictive control]\n
-in European Control Conference (ECC), Naples, Italy, 2019\n
-E. Small, P. Sopasakis, E. Fresk, P. Patrinos, G. Nikolakopoulos
+	in European Control Conference (ECC), Naples, Italy, 2019\n
+	E. Small, P. Sopasakis, E. Fresk, P. Patrinos, G. Nikolakopoulos
 - [https://arxiv.org/abs/1903.06477 SuperSCS: fast and accurate large-scale conic optimization]\n
- in European Control Conference (ECC), Naples, Italy, 2019\n
-P. Sopasakis, K. Menounou, and P. Patrinos
+ 	in European Control Conference (ECC), Naples, Italy, 2019\n
+	P. Sopasakis, K. Menounou, and P. Patrinos
 - [https://arxiv.org/abs/1903.06749 Risk-averse risk-constrained optimal control]\n 
-in European Control Conference (ECC), Naples, Italy, 2019\n
-P. Sopasakis, M. Schuurmans, and P. Patrinos
+	in European Control Conference (ECC), Naples, Italy, 2019\n
+	P. Sopasakis, M. Schuurmans, and P. Patrinos
 
 
 === 2018
