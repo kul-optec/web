@@ -3,6 +3,9 @@
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
 === 2019
+- [https://arxiv.org/pdf/1911.02934.pdf QPALM: A Newton-type Proximal Augmented Lagrangian Method for Quadratic Programs]\n
+	in 58th IEEE Conference on Decision and Control (CDC), Nice, France, 2019\n
+	B. Hermans, A. Themelis P. Patrinos
 - [https://homes.esat.kuleuven.be/~abertran/reports/FDLHA2019.pdf On the convexity of bit depth allocation for linear MMSE estimation in wireless sensor networks]\n
 	IEEE Signal Processing Letters (accepted)\n
 	F. de la Hucha Arce, P. Patrinos, M. Verhelst, A. Bertrand
