@@ -2,18 +2,22 @@
 == Panos Patrinos -- Publications
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
+=== 2020
+- [https://arxiv.org/abs/1709.05747 Douglas-Rachford splitting and ADMM for nonconvex optimization: tight convergence results]\n
+	SIAM Journal on Optimization,vol. 30, no. 1, pp. 149–181, 2020\n
+	A. Themelis, P. Patrinos
+- [https://ieeexplore.ieee.org/abstract/document/8962239 On the convexity of bit depth allocation for linear MMSE estimation in wireless sensor networks]\n
+	IEEE Signal Processing Letters (accepted)\n
+	F. de la Hucha Arce, P. Patrinos, M. Verhelst, A. Bertrand
+- [https://lirias.kuleuven.be/2934623?limo=0 Microsecond nonlinear model predictive control for DC-DC converters]\n
+	International Journal Of Circuit Theory And Applications
+	A. Lekic, B. Hermans, N. Jovicic, P. Patrinos
 === 2019
 - [https://arxiv.org/pdf/1912.09990.pdf Data-driven distributionally robust LQR with multiplicative noise]\n
 	P. Coppens, M. Schuurmans, P. Patrinos
-- [https://arxiv.org/abs/1709.05747 Douglas-Rachford splitting and ADMM for nonconvex optimization: tight convergence results]\n
-	SIAM Journal on Optimization\n
-	A. Themelis, P. Patrinos
 - [https://arxiv.org/pdf/1911.02934.pdf QPALM: A Newton-type Proximal Augmented Lagrangian Method for Quadratic Programs]\n
 	in 58th IEEE Conference on Decision and Control (CDC), Nice, France, 2019\n
 	B. Hermans, A. Themelis, P. Patrinos
-- [https://homes.esat.kuleuven.be/~abertran/reports/FDLHA2019.pdf On the convexity of bit depth allocation for linear MMSE estimation in wireless sensor networks]\n
-	IEEE Signal Processing Letters (accepted)\n
-	F. de la Hucha Arce, P. Patrinos, M. Verhelst, A. Bertrand
 - [https://arxiv.org/abs/1809.06062 Risk-Averse Model Predictive Operation Control of Islanded Microgrids]\n
 	IEEE Transactions on Control Systems Technology\n
 	C.A. Hans, P. Sopasakis, J. Raisch, C. Reincke-Collon, P. Patrinos
@@ -24,7 +28,7 @@
 - [https://arxiv.org/pdf/1905.11904.pdf Bregman forward-backward splitting for nonconvex composite optimization: superlinear convergence to nonisolated critical points]\n
 	M. Ahookhosh, A. Themelis, P. Patrinos
 - [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8756205 Optimal Dynamic Spectrum Management Algorithms for Multi-User Full-Duplex DSL]\n
-	IEEE Access\n
+	IEEE Access, vol. 7, pp. 106600-106616, 2019\n
 	J Verdyck, W Lanneer, P Tsiaflakis, W Coomans, P Patrinos, M Moonen
 - [https://arxiv.org/abs/1903.12091 Nonlinear Model Predictive Control for Distributed Motion Planning in Road Intersections Using PANOC]\n
  	in 58th IEEE Conference on Decision and Control (CDC), Nice, France, 2019\n
@@ -36,7 +40,7 @@
 	IEEE Transactions on Automatic Control\n
 	A. Themelis, P. Patrinos
 - [https://arxiv.org/abs/1706.02882 A new randomized block-coordinate primal-dual algorithm for distributed optimization]\n
-	IEEE Transactions on Automatic Control\n
+	IEEE Transactions on Automatic Control, vol. 64, no. 10, pp. 4050–4065, 2019\n
 	P. Latafat, N. Freris, and P. Patrinos
 - [https://arxiv.org/abs/1803.05256 Newton-type alternating minimization algorithm for convex optimization]\n
 	IEEE Transactions on Automatic Control, vol. 64, no. 2, pp. 697-711, 2019\n
@@ -59,7 +63,7 @@
 
 === 2018
 - [https://arxiv.org/abs/1809.07199 Multi-agent structured optimization over message-passing architectures with bounded communication delays]\n
-	CDC 2018\n
+	in 57th IEEE Conference on Decision and Control (CDC), Miami Beach, FL, USA, 2018\n
 	P. Latafat, P. Patrinos
 - [https://epubs.siam.org/doi/abs/10.1137/16M1080240 Forward-backward envelope for the sum of two nonconvex functions: Further properties and nonmonotone line-search algorithms]\n
 	SIAM Journal on Optimization, vol. 28, no.3, pp. 2274–2303\n
