@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Panos Patrinos&#8201;&mdash;&#8201;Research</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Menu</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="research.html" class="current">Research</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="teaching.html">Teaching</a></div>
+<div class="menu-item"><a href="people.html">People</a></div>
+<div class="menu-item"><a href="projects.html">Research&nbsp;projects</a></div>
+<div class="menu-category">Software</div>
+<div class="menu-item"><a href="https://github.com/kul-forbes/StructuredOptimization.jl">StructuredOptimization.jl</a></div>
+<div class="menu-item"><a href="https://github.com/kul-forbes/ProximalOperators.jl">ProximalOperators.jl</a></div>
+<div class="menu-item"><a href="https://github.com/kul-forbes/ProximalAlgorithms.jl">ProximalAlgorithms.jl</a></div>
+<div class="menu-item"><a href="https://github.com/kul-forbes/nmpc-codegen">nmpc-codegen</a></div>
+<div class="menu-item"><a href="https://kul-forbes.github.io/ForBES/">ForBES</a></div>
+<div class="menu-item"><a href="https://kul-forbes.github.io/scs/">SuperSCS</a></div>
+<div class="menu-item"><a href="https://github.com/Benny44/QPALM">QPALM</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Panos Patrinos&#8201;&mdash;&#8201;Research</h1>
+<div id="subtitle"><a href="https://www.esat.kuleuven.be/english/overview">Department of Electrical Engineering (ESAT)</a>, <a href="https://www.kuleuven.be/english/">KU Leuven</a></div>
+</div>
+<h3>SuperSCS</h3>
+<p>SuperSCS is a fast solver for conic problems</p>
+<h3>Embedded nonlinear model predictive control</h3>
+<p>This is a C implementation of PANOC, a Proximal Averaged Newton-type method for Optimal Control.</p>
+<p>PANOC is a fast solver for nonlinear optimal control problems which arise in nonlinear model predictive control (NMPC) and other applications.</p>
+<p>Features of the method:</p>
+<ul>
+<li><p>Very fast convergence, sub-millisecond-fast MPC</p>
+</li>
+<li><p>Low memory requirements</p>
+</li>
+<li><p>Suitable for embedded applications</p>
+</li>
+<li><p>Global convergence properties</p>
+</li>
+<li><p>Not sensitive to ill conditioning</p>
+</li>
+<li><p>Unlike SQP, does not a quadratic programming (QP) solver</p>
+</li>
+</ul>
+<p>Features of the implementation:</p>
+<ul>
+<li><p>Dependency-free C implementation (no libraries, C89 standard)</p>
+</li>
+<li><p>Very easy to install</p>
+</li>
+<li><p>Controller design in MATLAB, implementation in C (powered by <a href="https://github.com/casadi/casadi/wiki">CasADi</a>)</p>
+</li>
+<li><p>Unit-tested (very high <a href="https://codecov.io/gh/kul-forbes/EmbeddedMPC">coverage</a>)</p>
+</li>
+<li><p>Memory-leak-free (checked with <a href="http://valgrind.org/">valgrind</a>)</p>
+</li>
+<li><p>Detailed documentation</p>
+</li>
+<li><p>MEX interface for testing/simulation purposes</p>
+</li>
+</ul>
+<p>PANOC comes with a MATLAB toolbox that allows the design of obstacle avoidance controllers based on nonlinear model predictive control while it produces C code (following the C89 standard) which can be used on embedded devices.</p>
+<table class="imgtable"><tr><td>
+<a href="https://kul-forbes.github.io/PANOC/pics/navigation-01.png"><img src="https://kul-forbes.github.io/PANOC/pics/navigation-01.png" alt="Obstacle Avoidance using PANOC" width="599px" height="469px" /></a>&nbsp;</td>
+<td align="left"></td></tr></table>
+<p><video width="590" controls>
+<source src="https://kul-forbes.github.io/PANOC/pics/navigation-v0.1-001.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></p>
+<p>See more obstacle avoidance examples here.</p>
+<p>Please, cite PANOC as follows:</p>
+<ol>
+<li><p>L. Stella, A. Themelis, P. Sopasakis and P. Patrinos, A Simple and Efficient Algorithm for Nonlinear Model Predictive Control, IEEE CDC 2017, Melbourne, Australia, Dec 2017.</p>
+</li>
+<li><p>A. Sathya, P. Sopasakis, A. Themelis, R. Van Parys, G. Pipeleers and P. Patrinos, Embedded nonlinear model predictive control for obstacle avoidance using PANOC, submitted to ECC 2018.</p>
+</li>
+</ol>
+</td>
+</tr>
+</table>
+</body>
+</html>
