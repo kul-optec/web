@@ -3,13 +3,16 @@
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
 === 2020
+- [https://arxiv.org/pdf/1912.09990.pdf Data-driven distributionally robust LQR with multiplicative noise]\n
+	2nd Learning for Decision & Control (L4DC) Conference, UC Berkeley, CA\n
+	P. Coppens, M. Schuurmans, P. Patrinos
 - [https://arxiv.org/abs/1709.05747 Douglas-Rachford splitting and ADMM for nonconvex optimization: tight convergence results]\n
 	SIAM Journal on Optimization,vol. 30, no. 1, pp. 149–181, 2020\n
 	A. Themelis, P. Patrinos
 - [https://ieeexplore.ieee.org/abstract/document/8962239 On the convexity of bit depth allocation for linear MMSE estimation in wireless sensor networks]\n
 	IEEE Signal Processing Letters (accepted)\n
 	F. de la Hucha Arce, P. Patrinos, M. Verhelst, A. Bertrand
-- [https://lirias.kuleuven.be/2934623?limo=0 Microsecond nonlinear model predictive control for DC-DC converters]\n
+- [https://onlinelibrary.wiley.com/doi/abs/10.1002/cta.2737 Microsecond nonlinear model predictive control for DC-DC converters]\n
 	International Journal Of Circuit Theory And Applications\n
 	A. Lekic, B. Hermans, N. Jovicic, P. Patrinos
 - [ OpEn: Code generation for embedded nonconvex optimization]\n
@@ -23,8 +26,6 @@
 	P. Coppens, B. Hermans, J. Vandersteen, G. Pipeleers, and P. Patrinos
 
 === 2019
-- [https://arxiv.org/pdf/1912.09990.pdf Data-driven distributionally robust LQR with multiplicative noise]\n
-	P. Coppens, M. Schuurmans, P. Patrinos
 - [https://arxiv.org/pdf/1911.02934.pdf QPALM: A Newton-type Proximal Augmented Lagrangian Method for Quadratic Programs]\n
 	in 58th IEEE Conference on Decision and Control (CDC), Nice, France, 2019\n
 	B. Hermans, A. Themelis, P. Patrinos
