@@ -5,6 +5,8 @@
 === 2020
 - [https://arxiv.org/pdf/2003.03502.pdf A quadratically convergent proximal algorithm for nonnegative tensor decomposition]\n
 	N. Vervliet, A. Themelis, P. Patrinos, and L. De Lathauwer
+- [https://arxiv.org/pdf/2003.03963.pdf A block inertial Bregman proximal algorithm for nonsmooth nonconvex problems]\n
+	M. Ahookhosh, N. Gillis and P. Patrinos
 - [https://arxiv.org/pdf/1912.09990.pdf Data-driven distributionally robust LQR with multiplicative noise]\n
 	2nd Learning for Decision & Control (L4DC) Conference, UC Berkeley, CA\n
 	P. Coppens, M. Schuurmans, P. Patrinos
