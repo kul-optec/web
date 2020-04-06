@@ -5,8 +5,12 @@
 === 2020
 - [https://arxiv.org/pdf/2004.00083.pdf A new envelope function for nonsmooth DC optimization]\n
 	A. Themelis, B. Hermans and P. Patrinos
+- [ftp://ftp.esat.kuleuven.be/pub/SISTA/pcoppens/CDC_2020/cdc2020pcoppens.pdf Sample complexity of data-driven stochastic LQR with multiplicative uncertainty]\n
+	P. Coppens and P. Patrinos
 - [https://arxiv.org/pdf/2003.03502.pdf A quadratically convergent proximal algorithm for nonnegative tensor decomposition]\n
 	N. Vervliet, A. Themelis, P. Patrinos, and L. De Lathauwer
+- [https://homes.esat.kuleuven.be/~abertran/reports/JWmaxSPIR2020.pdf Multi-pattern recognition through maximization of signal-to-peak-interference ratio with application to neural spike sorting]\n
+	J. Wouters, P. Patrinos, F. Kloosterman and A. Bertrand
 - [https://arxiv.org/pdf/2003.03963.pdf A block inertial Bregman proximal algorithm for nonsmooth nonconvex problems]\n
 	M. Ahookhosh, N. Gillis and P. Patrinos
 - [https://arxiv.org/pdf/1912.09990.pdf Data-driven distributionally robust LQR with multiplicative noise]\n
