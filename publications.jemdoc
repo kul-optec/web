@@ -11,8 +11,8 @@
 	N. Vervliet, A. Themelis, P. Patrinos, and L. De Lathauwer
 - [https://homes.esat.kuleuven.be/~abertran/reports/JWmaxSPIR2020.pdf Multi-pattern recognition through maximization of signal-to-peak-interference ratio with application to neural spike sorting]\n
 	J. Wouters, P. Patrinos, F. Kloosterman and A. Bertrand
-- [https://arxiv.org/pdf/2003.03963.pdf A block inertial Bregman proximal algorithm for nonsmooth nonconvex problems]\n
-	M. Ahookhosh, N. Gillis and P. Patrinos
+- [https://arxiv.org/pdf/2003.03963.pdf A block inertial Bregman proximal algorithm for nonsmooth nonconvex problems with application to symmetric nonnegative matrix tri-factorization]\n
+	M. Ahookhosh, L.T.K. Hien, N. Gillis and P. Patrinos
 - [https://arxiv.org/pdf/1912.09990.pdf Data-driven distributionally robust LQR with multiplicative noise]\n
 	2nd Learning for Decision & Control (L4DC) Conference, UC Berkeley, CA\n
 	P. Coppens, M. Schuurmans, P. Patrinos
@@ -28,7 +28,7 @@
 - [https://arxiv.org/pdf/2003.00292.pdf OpEn: Code generation for embedded nonconvex optimization]\n
 	21st IFAC World Congress, 2020\n
 	P. Sopasakis, E. Fresk, and P. Patrinos
-- [ Learning-based distributionally robust model predictive control for adaptive cruise control with stochastic driver models]\n
+- [https://arxiv.org/pdf/2005.02646.pdf Learning-based distributionally robust model predictive control for adaptive cruise control with stochastic driver models]\n
 	21st IFAC World Congress, 2020\n
 	M. Schuurmans, A. Katriniok, H. Tseng, P. Patrinos
 - [ A new heuristic approach for low-thrust spacecraft trajectory optimization]\n
@@ -36,22 +36,22 @@
 	P. Coppens, B. Hermans, J. Vandersteen, G. Pipeleers, and P. Patrinos
 
 === 2019
-- [https://arxiv.org/pdf/1911.02934.pdf QPALM: A Newton-type Proximal Augmented Lagrangian Method for Quadratic Programs]\n
+- [https://arxiv.org/pdf/1911.02934.pdf QPALM: A Newton-type proximal augmented Lagrangian method for quadratic programs]\n
 	in 58th IEEE Conference on Decision and Control (CDC), Nice, France, 2019\n
 	B. Hermans, A. Themelis, P. Patrinos
-- [https://arxiv.org/abs/1809.06062 Risk-Averse Model Predictive Operation Control of Islanded Microgrids]\n
+- [https://arxiv.org/abs/1809.06062 Risk-averse model predictive operation control of islanded microgrids]\n
 	IEEE Transactions on Control Systems Technology\n
 	C.A. Hans, P. Sopasakis, J. Raisch, C. Reincke-Collon, P. Patrinos
 - [https://arxiv.org/pdf/1906.10053.pdf Block-coordinate and incremental aggregated nonconvex proximal gradient methods: a unified view]\n
 	P. Latafat, A. Themelis, P. Patrinos
 - [https://arxiv.org/pdf/1908.01402.pdf Multi-block Bregman proximal alternating linearized minimization and its application to sparse orthogonal nonnegative matrix factorization]\n
-	M. Ahookhosh, L.T.K Hien, N. Gillis, P. Patrinos
+	M. Ahookhosh, L.T.K. Hien, N. Gillis, P. Patrinos
 - [https://arxiv.org/pdf/1905.11904.pdf Bregman forward-backward splitting for nonconvex composite optimization: superlinear convergence to nonisolated critical points]\n
 	M. Ahookhosh, A. Themelis, P. Patrinos
-- [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8756205 Optimal Dynamic Spectrum Management Algorithms for Multi-User Full-Duplex DSL]\n
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8756205 Optimal dynamic spectrum management algorithms for multi-user full-duplex DSL]\n
 	IEEE Access, vol. 7, pp. 106600-106616, 2019\n
 	J Verdyck, W Lanneer, P Tsiaflakis, W Coomans, P Patrinos, M Moonen
-- [https://arxiv.org/abs/1903.12091 Nonlinear Model Predictive Control for Distributed Motion Planning in Road Intersections Using PANOC]\n
+- [https://arxiv.org/abs/1903.12091 Nonlinear model predictive control for distributed motion planning in road intersections using PANOC]\n
  	in 58th IEEE Conference on Decision and Control (CDC), Nice, France, 2019\n
 	A. Katriniok, M. Schuurmans, P. Sopasakis, P. Patrinos
 - [https://arxiv.org/abs/1903.10040 Safe Learning-Based Control of Stochastic Jump Linear Systems: a Distributionally Robust Approach]\n
