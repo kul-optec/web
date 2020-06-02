@@ -3,11 +3,15 @@
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
 === 2020
+- [https://arxiv.org/abs/1903.01818 Inertial Block Mirror Descent Method for Non-Convex Non-Smooth Optimization]\n
+	37th International Conference on Machine Learning (ICML)\n
+	L.T.K Hien, N. Gillis, P. Patrinos
 - [https://arxiv.org/pdf/2004.00083.pdf A new envelope function for nonsmooth DC optimization]\n
 	A. Themelis, B. Hermans and P. Patrinos
 - [ftp://ftp.esat.kuleuven.be/pub/SISTA/pcoppens/CDC_2020/cdc2020pcoppens.pdf Sample complexity of data-driven stochastic LQR with multiplicative uncertainty]\n
 	P. Coppens and P. Patrinos
 - [https://arxiv.org/pdf/2003.03502.pdf A quadratically convergent proximal algorithm for nonnegative tensor decomposition]\n
+	28th European Signal Processing Conference (EUSIPCO)\n
 	N. Vervliet, A. Themelis, P. Patrinos, and L. De Lathauwer
 - [https://homes.esat.kuleuven.be/~abertran/reports/JWmaxSPIR2020.pdf Multi-pattern recognition through maximization of signal-to-peak-interference ratio with application to neural spike sorting]\n
 	J. Wouters, P. Patrinos, F. Kloosterman and A. Bertrand
@@ -66,8 +70,6 @@
 - [https://arxiv.org/abs/1803.05256 Newton-type alternating minimization algorithm for convex optimization]\n
 	IEEE Transactions on Automatic Control, vol. 64, no. 2, pp. 697-711, 2019\n
 	L. Stella, A. Themelis, P. Patrinos
-- [https://arxiv.org/abs/1903.01818 Inertial Block Mirror Descent Method for Non-Convex Non-Smooth Optimization]\n
-	L.T.K Hien, N. Gillis, P. Patrinos
 - [https://arxiv.org/abs/1704.00342 Risk-averse model predictive control]\n
 	Automatica, vol. 100, pp. 281-289, 2019\n
 	P. Sopasakis, D. Herceg, A. Bemporad, P. Patrinos
