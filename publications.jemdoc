@@ -3,12 +3,19 @@
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
 === 2020
+- [https://arxiv.org/pdf/2005.10230.pdf Douglas-Rachford splitting and ADMM for nonconvex optimization: Accelerated and Newton-type algorithms]\n
+	A. Themelis, L. Stella, P. Patrinos
+- [https://arxiv.org/pdf/2009.04422 Learning-Based Distributionally Robust Model Predictive Control of Markovian Switching Systems with Guaranteed Stability and Recursive Feasibility]\n
+	59th IEEE Conference on Decision and Control (CDC), 2020\n
+	M. Schuurmans, P. Patrinos
 - [https://arxiv.org/abs/1903.01818 Inertial Block Mirror Descent Method for Non-Convex Non-Smooth Optimization]\n
 	37th International Conference on Machine Learning (ICML)\n
 	L.T.K Hien, N. Gillis, P. Patrinos
 - [https://arxiv.org/pdf/2004.00083.pdf A new envelope function for nonsmooth DC optimization]\n
+	59th IEEE Conference on Decision and Control (CDC), 2020\n
 	A. Themelis, B. Hermans and P. Patrinos
 - [ftp://ftp.esat.kuleuven.be/pub/SISTA/pcoppens/CDC_2020/cdc2020pcoppens.pdf Sample complexity of data-driven stochastic LQR with multiplicative uncertainty]\n
+	59th IEEE Conference on Decision and Control (CDC), 2020\n
 	P. Coppens and P. Patrinos
 - [https://arxiv.org/pdf/2003.03502.pdf A quadratically convergent proximal algorithm for nonnegative tensor decomposition]\n
 	28th European Signal Processing Conference (EUSIPCO)\n
@@ -35,7 +42,7 @@
 - [https://arxiv.org/pdf/2005.02646.pdf Learning-based distributionally robust model predictive control for adaptive cruise control with stochastic driver models]\n
 	21st IFAC World Congress, 2020\n
 	M. Schuurmans, A. Katriniok, H. Tseng, P. Patrinos
-- [ A new heuristic approach for low-thrust spacecraft trajectory optimization]\n
+- [https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS3004985&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&lang=en_US&fromSitemap=1 A new heuristic approach for low-thrust spacecraft trajectory optimization]\n
 	21st IFAC World Congress, 2020\n
 	P. Coppens, B. Hermans, J. Vandersteen, G. Pipeleers, and P. Patrinos
 
