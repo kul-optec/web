@@ -5,6 +5,8 @@
 === 2020
 - [https://arxiv.org/pdf/2010.02653.pdf QPALM: A Proximal Augmented Lagrangian Method for Nonconvex Quadratic Programs]\n 
 	B. Hermans, A. Themelis, P. Patrinos
+- [https://www.biorxiv.org/content/10.1101/2020.10.02.323501v1.full.pdf Optimal versus approximate channel selection methods for EEG decoding with application to topology-constrained neuro-sensor networks]\n
+	A.M. Narayanan, P. Patrinos, A. Bertrand
 - [https://arxiv.org/pdf/2005.10230.pdf Douglas-Rachford splitting and ADMM for nonconvex optimization: Accelerated and Newton-type algorithms]\n
 	A. Themelis, L. Stella, P. Patrinos
 - [https://arxiv.org/pdf/2009.04422 Learning-Based Distributionally Robust Model Predictive Control of Markovian Switching Systems with Guaranteed Stability and Recursive Feasibility]\n
