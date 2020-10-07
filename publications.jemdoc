@@ -3,6 +3,8 @@
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
 === 2020
+- [https://arxiv.org/pdf/2010.02653.pdf QPALM: A Proximal Augmented Lagrangian Method for Nonconvex Quadratic Programs]\n 
+	B. Hermans, A. Themelis, P. Patrinos
 - [https://arxiv.org/pdf/2005.10230.pdf Douglas-Rachford splitting and ADMM for nonconvex optimization: Accelerated and Newton-type algorithms]\n
 	A. Themelis, L. Stella, P. Patrinos
 - [https://arxiv.org/pdf/2009.04422 Learning-Based Distributionally Robust Model Predictive Control of Markovian Switching Systems with Guaranteed Stability and Recursive Feasibility]\n
