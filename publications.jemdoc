@@ -9,6 +9,8 @@
 - [https://arxiv.org/pdf/1905.11904.pdf Bregman forward-backward splitting for nonconvex composite optimization: superlinear convergence to nonisolated critical points]\n
 	SIAM Journal on Optimization\n
 	M. Ahookhosh, A. Themelis, P. Patrinos
+- [https://arxiv.org/pdf/2011.12659.pdf Unsupervised learning of disentangled representations in deep restricted kernel machines with orthogonality constraints]\n
+	F. Tonin, P. Patrinos, J.A.K. Suykens
 - [https://arxiv.org/pdf/2010.02653.pdf QPALM: A Proximal Augmented Lagrangian Method for Nonconvex Quadratic Programs]\n 
 	B. Hermans, A. Themelis, P. Patrinos
 - [https://www.biorxiv.org/content/10.1101/2020.10.02.323501v1.full.pdf Optimal versus approximate channel selection methods for EEG decoding with application to topology-constrained neuro-sensor networks]\n
