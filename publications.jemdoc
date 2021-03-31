@@ -1,14 +1,28 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter  
 == Panos Patrinos -- Publications
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
-
-=== 2020
+=== 2021
 - [https://arxiv.org/pdf/1906.10053.pdf Block-coordinate and incremental aggregated nonconvex proximal gradient methods: a unified view]\n
-	Mathematical Programming\n
+	Mathematical Programming, pp. 1-30\n
 	P. Latafat, A. Themelis, P. Patrinos
 - [https://arxiv.org/pdf/1905.11904.pdf Bregman forward-backward splitting for nonconvex composite optimization: superlinear convergence to nonisolated critical points]\n
-	SIAM Journal on Optimization\n
+	SIAM Journal on Optimization, vol. 31, no. 1, pp. 653-685\n
 	M. Ahookhosh, A. Themelis, P. Patrinos
+- [https://www.sciencedirect.com/science/article/pii/S0005109821000200 A penalty method for nonlinear programs with set exclusion constraints]\n
+	Automatica, vol. 127, no. 109500\n
+	B. Hermans, G. Pipeleers, P. Patrinos
+- [https://arxiv.org/abs/2102.10312 Bregman Finito/MISO for nonconvex regularized finite sum minimization without Lipschitz gradient continuity]\n
+	P. Latafat, A. Themelis, M. Ahookhosh, P. Patrinos 
+- [https://arxiv.org/abs/2103.14343 Neural network training as an optimal control problem: An augmented Lagrangian approach]\n
+	B. Evens, P. Latafat, A. Themelis, J. Suykens, P. Patrinos 
+- [https://arxiv.org/abs/2103.03006 Data-driven distributionally robust MPC for constrained stochastic systems]\n
+	P. Coppens, P. Patrinos
+- [https://arxiv.org/abs/2103.08533 Lasry-Lions envelopes and nonconvex optimization: A homotopy approach]\n
+	M. Simoes, A. Themelis, P. Patrinos
+- [https://arxiv.org/abs/2102.08443 Unsupervised energy-based out-of-distribution detection using Stiefel-restricted kernel machine]\n
+	F. Tonin, A. Pandey, P. Patrinos, J. Suykens
+
+=== 2020
 - [https://arxiv.org/pdf/2011.12659.pdf Unsupervised learning of disentangled representations in deep restricted kernel machines with orthogonality constraints]\n
 	F. Tonin, P. Patrinos, J.A.K. Suykens
 - [https://arxiv.org/pdf/2010.02653.pdf QPALM: A Proximal Augmented Lagrangian Method for Nonconvex Quadratic Programs]\n 
