@@ -2,6 +2,15 @@
 == Panos Patrinos -- Publications
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 === 2021
+- [https://arxiv.org/abs/2103.03006 Data-driven distributionally robust MPC for constrained stochastic systems]\n
+	IEEE Control Systems Letters\n
+	P. Coppens, P. Patrinos
+- [https://arxiv.org/pdf/2003.03963.pdf A block inertial Bregman proximal algorithm for nonsmooth nonconvex problems with application to symmetric nonnegative matrix tri-factorization]\n
+	Journal of Optimization Theory and Applications\n
+	M. Ahookhosh, L.T.K. Hien, N. Gillis and P. Patrinos
+- [https://arxiv.org/pdf/1908.01402.pdf Multi-block Bregman proximal alternating linearized minimization and its application to sparse orthogonal nonnegative matrix factorization]\n
+	Computational Optimization and Applications\n
+	M. Ahookhosh, L.T.K. Hien, N. Gillis, P. Patrinos
 - [https://arxiv.org/pdf/1906.10053.pdf Block-coordinate and incremental aggregated nonconvex proximal gradient methods: a unified view]\n
 	Mathematical Programming, pp. 1-30\n
 	P. Latafat, A. Themelis, P. Patrinos
@@ -13,13 +22,16 @@
 	B. Hermans, G. Pipeleers, P. Patrinos
 - [https://arxiv.org/abs/2102.10312 Bregman Finito/MISO for nonconvex regularized finite sum minimization without Lipschitz gradient continuity]\n
 	P. Latafat, A. Themelis, M. Ahookhosh, P. Patrinos 
+- [https://arxiv.org/abs/2106.00561 A General Framework for Learning-Based Distributionally Robust MPC of Markov Jump Systems]\n
+	M. Schuurmans, P. Patrinos
+- [https://arxiv.org/abs/2105.02511 Data-driven distributionally robust control of partially observable jump linear systems]\n
+	M. Schuurmans, P. Patrinos	
 - [https://arxiv.org/abs/2103.14343 Neural network training as an optimal control problem: An augmented Lagrangian approach]\n
 	B. Evens, P. Latafat, A. Themelis, J. Suykens, P. Patrinos 
-- [https://arxiv.org/abs/2103.03006 Data-driven distributionally robust MPC for constrained stochastic systems]\n
-	P. Coppens, P. Patrinos
 - [https://arxiv.org/abs/2103.08533 Lasry-Lions envelopes and nonconvex optimization: A homotopy approach]\n
 	M. Simoes, A. Themelis, P. Patrinos
 - [https://arxiv.org/abs/2102.08443 Unsupervised energy-based out-of-distribution detection using Stiefel-restricted kernel machine]\n
+	International Joint Conference on Neural Networks (IJCNN), 2021\n
 	F. Tonin, A. Pandey, P. Patrinos, J. Suykens
 
 === 2020
@@ -50,8 +62,6 @@
 - [https://ieeexplore.ieee.org/document/9242265 Multi-pattern recognition through maximization of signal-to-peak-interference ratio with application to neural spike sorting]\n
 	IEEE Transactions on Signal Processing, vol. 68, pp. 6240-6254, 2020\n
 	J. Wouters, P. Patrinos, F. Kloosterman and A. Bertrand
-- [https://arxiv.org/pdf/2003.03963.pdf A block inertial Bregman proximal algorithm for nonsmooth nonconvex problems with application to symmetric nonnegative matrix tri-factorization]\n
-	M. Ahookhosh, L.T.K. Hien, N. Gillis and P. Patrinos
 - [https://arxiv.org/pdf/1912.09990.pdf Data-driven distributionally robust LQR with multiplicative noise]\n
 	2nd Learning for Decision & Control (L4DC) Conference, UC Berkeley, CA\n
 	P. Coppens, M. Schuurmans, P. Patrinos
@@ -81,8 +91,6 @@
 - [https://arxiv.org/abs/1809.06062 Risk-averse model predictive operation control of islanded microgrids]\n
 	IEEE Transactions on Control Systems Technology\n
 	C.A. Hans, P. Sopasakis, J. Raisch, C. Reincke-Collon, P. Patrinos
-- [https://arxiv.org/pdf/1908.01402.pdf Multi-block Bregman proximal alternating linearized minimization and its application to sparse orthogonal nonnegative matrix factorization]\n
-	M. Ahookhosh, L.T.K. Hien, N. Gillis, P. Patrinos
 - [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8756205 Optimal dynamic spectrum management algorithms for multi-user full-duplex DSL]\n
 	IEEE Access, vol. 7, pp. 106600-106616, 2019\n
 	J Verdyck, W Lanneer, P Tsiaflakis, W Coomans, P Patrinos, M Moonen
