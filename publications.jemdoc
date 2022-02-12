@@ -2,14 +2,19 @@
 == Panos Patrinos -- Publications
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
+=== 2022
+- [https://openreview.net/forum?id=2_vhkAMARk Escaping limit cycles: Global convergence for constrained nonconvex-nonconcave minimax problems]\n
+	10th International Conference on Learning Representations (ICLR 2022), *spotlight*
+- [https://arxiv.org/abs/2107.04395 Block Alternating Bregman Majorization Minimization with Extrapolation]\n
+	SIAM Journal Journal on Mathematics of Data Science, vol. 4, no. 1, pp. 1-25\n
+	L.T.K. Hien, D.N. Phan, N. Gillis, M. Ahookhosh, P. Patrinos 
+
 === 2021
 - [https://arxiv.org/abs/2112.08886 Conjugate dualities for relative smoothness and strong convexity under the light of generalized convexity]\n
 	E. Laude, A. Themelis, P. Patrinos
 - [https://arxiv.org/abs/2112.02370 Alpaqa: A matrix-free solver for nonlinear MPC and large-scale nonconvex optimization]\n
 	P. Pas, M. Schuurmans, P. Patrinos
-- [https://arxiv.org/abs/2107.04395 Block Alternating Bregman Majorization Minimization with Extrapolation]\n
-	SIAM Journal Journal on Mathematics of Data Science\n
-	L.T.K. Hien, D.N. Phan, N. Gillis, M. Ahookhosh, P. Patrinos
+
 - [https://arxiv.org/pdf/2011.12659.pdf Unsupervised learning of disentangled representations in deep restricted kernel machines with orthogonality constraints]\n
 	Neural Networks\n
 	F. Tonin, P. Patrinos, J.A.K. Suykens
