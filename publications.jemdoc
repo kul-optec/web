@@ -3,8 +3,31 @@
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
 === 2022
+- [https://arxiv.org/abs/1906.10053 Block-coordinate and incremental aggregated nonconvex proximal gradient methods: a unified view]\n
+	Mathematical Programming, vol. 193, pp. 195–224, 2022\n
+	P. Latafat, A. Themelis, P. Patrinos
+- [hhttps://arxiv.org/abs/2010.02653 QPALM: A Proximal Augmented Lagrangian Method for Nonconvex Quadratic Programs]\n 
+	Mathematical Programming Computation, 2022\n
+	B. Hermans, A. Themelis, P. Patrinos
+- [https://arxiv.org/abs/2005.10230 Douglas-Rachford splitting and ADMM for nonconvex optimization: Accelerated and Newton-type algorithms]\n
+	Computational Optimization and Applications, vol. 82, pp. 395–440, 2022\n
+	A. Themelis, L. Stella, P. Patrinos
+- [https://arxiv.org/abs/1809.07199 Primal-dual algorithms for multi-agent structured optimization over message-passing architectures with bounded communication delays]\n
+	Optimization Methods & Software, 2022\n
+	P. Latafat, P. Patrinos
+- [https://arxiv.org/abs/2203.00775 Tight convergence rates of the gradient method on hypoconvex functions]\n
+	T. Rotaru, F. Glineur, and P. Patrinos
+- [https://ieeexplore.ieee.org/abstract/document/9746019 Learning-based resource allocation with dynamic data rate constraints]\n
+	47th International Conference on Acoustics, Speech, & Signal Processing (ICASSP), 2022\n
+	P. Behmandpoor, P. Patrinos, M. Moonen
+- [https://arxiv.org/abs/2112.02370 Alpaqa: A matrix-free solver for nonlinear MPC and large-scale nonconvex optimization]\n
+	European Control Conference (ECC), 2022\n
+	P. Pas, M. Schuurmans, P. Patrinos
+- [https://arxiv.org/abs/2111.08331 Learning MPC for interaction-aware autonomous driving: A game-theoretic approach]\n
+	B. Evens, M. Schuurmans, P. Patrinos,
 - [https://openreview.net/forum?id=2_vhkAMARk Escaping limit cycles: Global convergence for constrained nonconvex-nonconcave minimax problems]\n
-	10th International Conference on Learning Representations (ICLR 2022), *spotlight*
+	10th International Conference on Learning Representations (ICLR 2022), *spotlight*\n
+	T. Pethick, P. Latafat, P. Patrinos, O. Fercoq, V. Cevher
 - [https://arxiv.org/abs/2107.04395 Block Alternating Bregman Majorization Minimization with Extrapolation]\n
 	SIAM Journal on Mathematics of Data Science, vol. 4, no. 1, pp. 1-25\n
 	L.T.K. Hien, D.N. Phan, N. Gillis, M. Ahookhosh, P. Patrinos 
@@ -12,9 +35,6 @@
 === 2021
 - [https://arxiv.org/abs/2112.08886 Conjugate dualities for relative smoothness and strong convexity under the light of generalized convexity]\n
 	E. Laude, A. Themelis, P. Patrinos
-- [https://arxiv.org/abs/2112.02370 Alpaqa: A matrix-free solver for nonlinear MPC and large-scale nonconvex optimization]\n
-	P. Pas, M. Schuurmans, P. Patrinos
-
 - [https://arxiv.org/pdf/2011.12659.pdf Unsupervised learning of disentangled representations in deep restricted kernel machines with orthogonality constraints]\n
 	Neural Networks\n
 	F. Tonin, P. Patrinos, J.A.K. Suykens
@@ -27,9 +47,6 @@
 - [https://arxiv.org/pdf/1908.01402.pdf Multi-block Bregman proximal alternating linearized minimization and its application to sparse orthogonal nonnegative matrix factorization]\n
 	Computational Optimization and Applications\n
 	M. Ahookhosh, L.T.K. Hien, N. Gillis, P. Patrinos
-- [https://arxiv.org/pdf/1906.10053.pdf Block-coordinate and incremental aggregated nonconvex proximal gradient methods: a unified view]\n
-	Mathematical Programming, pp. 1-30\n
-	P. Latafat, A. Themelis, P. Patrinos
 - [https://arxiv.org/pdf/1905.11904.pdf Bregman forward-backward splitting for nonconvex composite optimization: superlinear convergence to nonisolated critical points]\n
 	SIAM Journal on Optimization, vol. 31, no. 1, pp. 653-685\n
 	M. Ahookhosh, A. Themelis, P. Patrinos
@@ -54,13 +71,9 @@
 	F. Tonin, A. Pandey, P. Patrinos, J. Suykens
 
 === 2020
-- [https://arxiv.org/pdf/2010.02653.pdf QPALM: A Proximal Augmented Lagrangian Method for Nonconvex Quadratic Programs]\n 
-	B. Hermans, A. Themelis, P. Patrinos
 - [https://www.biorxiv.org/content/10.1101/2020.10.02.323501v1.full.pdf Optimal versus approximate channel selection methods for EEG decoding with application to topology-constrained neuro-sensor networks]\n
 	IEEE in Transactions on Neural Systems & Rehabilitation Engineering\n
 	A.M. Narayanan, P. Patrinos, A. Bertrand
-- [https://arxiv.org/pdf/2005.10230.pdf Douglas-Rachford splitting and ADMM for nonconvex optimization: Accelerated and Newton-type algorithms]\n
-	A. Themelis, L. Stella, P. Patrinos
 - [https://arxiv.org/pdf/2009.04422 Learning-Based Distributionally Robust Model Predictive Control of Markovian Switching Systems with Guaranteed Stability and Recursive Feasibility]\n
 	59th IEEE Conference on Decision and Control (CDC), 2020\n
 	M. Schuurmans, P. Patrinos
