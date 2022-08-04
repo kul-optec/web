@@ -6,6 +6,17 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <title>Panos Patrinos&#8201;&mdash;&#8201;Research</title>
+<!-- MathJax -->
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script>
+    window.MathJax = {
+        tex: {
+            tags: 'ams'
+        }
+    };
+</script>
+<!-- End MathJax -->
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
@@ -29,63 +40,87 @@
 <td id="layout-content">
 <div id="toptitle">
 <h1>Panos Patrinos&#8201;&mdash;&#8201;Research</h1>
-<div id="subtitle"><a href="https://www.esat.kuleuven.be/english/overview">Department of Electrical Engineering (ESAT)</a>, <a href="https://www.kuleuven.be/english/">KU Leuven</a></div>
+<div id="subtitle"><a href="https://www.esat.kuleuven.be/english/overview" target=&ldquo;blank&rdquo;>Department of Electrical Engineering (ESAT)</a>, <a href="https://www.kuleuven.be/english/" target=&ldquo;blank&rdquo;>KU Leuven</a>
+</div>
 </div>
 <h3>SuperSCS</h3>
-<p>SuperSCS is a fast solver for conic problems</p>
+<p>SuperSCS is a fast solver for conic problems
+</p>
 <h3>Embedded nonlinear model predictive control</h3>
-<p>This is a C implementation of PANOC, a Proximal Averaged Newton-type method for Optimal Control.</p>
-<p>PANOC is a fast solver for nonlinear optimal control problems which arise in nonlinear model predictive control (NMPC) and other applications.</p>
-<p>Features of the method:</p>
+<p>This is a C implementation of PANOC, a Proximal Averaged Newton-type method for Optimal Control.
+</p>
+<p>PANOC is a fast solver for nonlinear optimal control problems which arise in nonlinear model predictive control (NMPC) and other applications.
+</p>
+<p>Features of the method:
+</p>
 <ul>
-<li><p>Very fast convergence, sub-millisecond-fast MPC</p>
+<li><p>Very fast convergence, sub-millisecond-fast MPC
+</p>
 </li>
-<li><p>Low memory requirements</p>
+<li><p>Low memory requirements
+</p>
 </li>
-<li><p>Suitable for embedded applications</p>
+<li><p>Suitable for embedded applications
+</p>
 </li>
-<li><p>Global convergence properties</p>
+<li><p>Global convergence properties
+</p>
 </li>
-<li><p>Not sensitive to ill conditioning</p>
+<li><p>Not sensitive to ill conditioning
+</p>
 </li>
-<li><p>Unlike SQP, does not a quadratic programming (QP) solver</p>
+<li><p>Unlike SQP, does not a quadratic programming (QP) solver
+</p>
 </li>
 </ul>
-<p>Features of the implementation:</p>
+<p>Features of the implementation:
+</p>
 <ul>
-<li><p>Dependency-free C implementation (no libraries, C89 standard)</p>
+<li><p>Dependency-free C implementation (no libraries, C89 standard)
+</p>
 </li>
-<li><p>Very easy to install</p>
+<li><p>Very easy to install
+</p>
 </li>
-<li><p>Controller design in MATLAB, implementation in C (powered by <a href="https://github.com/casadi/casadi/wiki">CasADi</a>)</p>
+<li><p>Controller design in MATLAB, implementation in C (powered by <a href="https://github.com/casadi/casadi/wiki" target=&ldquo;blank&rdquo;>CasADi</a>)
+</p>
 </li>
-<li><p>Unit-tested (very high <a href="https://codecov.io/gh/kul-forbes/EmbeddedMPC">coverage</a>)</p>
+<li><p>Unit-tested (very high <a href="https://codecov.io/gh/kul-forbes/EmbeddedMPC" target=&ldquo;blank&rdquo;>coverage</a>)
+</p>
 </li>
-<li><p>Memory-leak-free (checked with <a href="http://valgrind.org/">valgrind</a>)</p>
+<li><p>Memory-leak-free (checked with <a href="http://valgrind.org/" target=&ldquo;blank&rdquo;>valgrind</a>)
+</p>
 </li>
-<li><p>Detailed documentation</p>
+<li><p>Detailed documentation
+</p>
 </li>
-<li><p>MEX interface for testing/simulation purposes</p>
+<li><p>MEX interface for testing/simulation purposes
+</p>
 </li>
 </ul>
-<p>PANOC comes with a MATLAB toolbox that allows the design of obstacle avoidance controllers based on nonlinear model predictive control while it produces C code (following the C89 standard) which can be used on embedded devices.</p>
+<p>PANOC comes with a MATLAB toolbox that allows the design of obstacle avoidance controllers based on nonlinear model predictive control while it produces C code (following the C89 standard) which can be used on embedded devices.
+</p>
 <table class="imgtable"><tr><td>
 <a href="https://kul-forbes.github.io/PANOC/pics/navigation-01.png"><img src="https://kul-forbes.github.io/PANOC/pics/navigation-01.png" alt="Obstacle Avoidance using PANOC" width="599px" height="469px" /></a>&nbsp;</td>
 <td align="left"></td></tr></table>
 <p><video width="590" controls>
 <source src="https://kul-forbes.github.io/PANOC/pics/navigation-v0.1-001.mp4" type="video/mp4">
 Your browser does not support the video tag.
-</video></p>
-<p>See more obstacle avoidance examples here.</p>
-<p>Please, cite PANOC as follows:</p>
+</video>
+</p>
+<p>See more obstacle avoidance examples here.
+</p>
+<p>Please, cite PANOC as follows:
+</p>
 <ol>
-<li><p>L. Stella, A. Themelis, P. Sopasakis and P. Patrinos, A Simple and Efficient Algorithm for Nonlinear Model Predictive Control, IEEE CDC 2017, Melbourne, Australia, Dec 2017.</p>
+<li><p>L. Stella, A. Themelis, P. Sopasakis and P. Patrinos, A Simple and Efficient Algorithm for Nonlinear Model Predictive Control, IEEE CDC 2017, Melbourne, Australia, Dec 2017.
+</p>
 </li>
-<li><p>A. Sathya, P. Sopasakis, A. Themelis, R. Van Parys, G. Pipeleers and P. Patrinos, Embedded nonlinear model predictive control for obstacle avoidance using PANOC, submitted to ECC 2018.</p>
+<li><p>A. Sathya, P. Sopasakis, A. Themelis, R. Van Parys, G. Pipeleers and P. Patrinos, Embedded nonlinear model predictive control for obstacle avoidance using PANOC, submitted to ECC 2018.
+</p>
 </li>
 </ol>
 </td>
 </tr>
 </table>
 </body>
-</html>
