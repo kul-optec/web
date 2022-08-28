@@ -2,17 +2,26 @@
 == Panos Patrinos -- Research Projects
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
+*Ongoing projects*
+- Taming Nonconvexity in Structured Low-Rank Optimization
+- From model-based to data-driven design: Signal processing and control of noisy nonlinear systems
+- Embedded learning and optimization for the next generation of smart industrial control systems
+- Interaction-aware learning risk-averse MPC: ensuring safe interaction between automated vehicles and (vulnerable) road users
+- Learning to optimize nonconvex problems: provably and efficiently
 - [https://www.esat.kuleuven.be/stadius/project.php?id=1207 Optimization frameworks for deep kernel machines]
 - [https://www.esat.kuleuven.be/stadius/project.php?id=1244 Risk-averse Control and Dynamic Optimization Bridging the Gap Between Robust and Stochastic Control]
+
+
+*Completed projects*
 - [http://www.esat.kuleuven.be/stadius/project.php?id=1175 A unifying algorithmic framework for structured optimization]
 - [http://www.esat.kuleuven.be/stadius/project.php?id=1173 SeLMA - Structured Low-Rank Matrix/Tensor Approximation: Numerical Optimization-Based Algorithms and Applications]
 - [http://www.esat.kuleuven.be/stadius/project.php?id=1176 Risk-averse Control and Dynamic Optimization Bridging the Gap Between Robust and Stochastic Control]
+- Real-time Learning/Risk-Averse Model Predictive Control for Autonomous Vehicle Motion Control
 
-
-[research.html Find out more].
-
+# [research.html Find out more].
 
 ~~~
-{}{img_left}{https://ppw.kuleuven.be/ogp/images/fwo-logo.png}{alt text}{300}{100}{http://www.fwo.be/en/}
+{}{img_left}{./sponsors.pdf}{fwo}{900}{300}{}
 ~~~
-{}{img_left}{http://www.fwo.be/CropUp/500x300R/media/635510/eos.jpg}{alt text}{300}{100}{http://www.fwo.be/CropUp/500x300R/media/635510/eos.jpg}
+
+

@@ -7,10 +7,11 @@ Menu
     Research projects   [projects.html]
 	
 Software
-   StructuredOptimization.jl	[https://github.com/JuliaFirstOrder/StructuredOptimization.jl]
-   ProximalOperators.jl		[https://github.com/JuliaFirstOrder/ProximalOperators.jl]
-   ProximalAlgorithms.jl	[https://github.com/JuliaFirstOrder/ProximalAlgorithms.jl]
+   Alpaqa			[https://github.com/kul-optec/alpaqa]
+   QPALM			[https://github.com/kul-optec/QPALM]
    OpEn		 		[https://alphaville.github.io/optimization-engine/]
    SuperSCS			[https://github.com/kul-optec/superscs]
-   QPALM			[https://github.com/Benny44/QPALM_vLADEL]
+   ProximalOperators.jl		[https://github.com/JuliaFirstOrder/ProximalOperators.jl]
+   ProximalAlgorithms.jl	[https://github.com/JuliaFirstOrder/ProximalAlgorithms.jl]
+
    

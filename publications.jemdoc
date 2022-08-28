@@ -3,6 +3,16 @@
 [https://www.esat.kuleuven.be/english/overview Department of Electrical Engineering (ESAT)], [https://www.kuleuven.be/english/ KU Leuven]
 
 === 2022
+- [https://arxiv.org/abs/2208.06226 Sim2real for Autonomous Vehicle Control using Executable Digital Twin]\n
+	J.P. Allamaa, P. Patrinos, H. Van der Auweraer, T.D. Son
+- [https://arxiv.org/abs/2206.13319 Safe, Learning-Based MPC for Highway Driving under Lane-Change Uncertainty: A Distributionally Robust Approach]\n
+	M. Schuurmans, A. Katriniok, C. Meissen, H.E. Tseng, P. Patrinos
+- [https://arxiv.org/abs/2207.06062 Safe learning LQR of linear dynamics with multiplicative noise]\n
+	P. Coppens, P. Patrinos
+- [https://arxiv.org/abs/2207.08195 SPIRAL: A Superlinearly Convergent Incremental Proximal Algorithm for Nonconvex Finite Sum Minimization]\n
+	P. Behmandpoor, P. Latafat, A. Themelis, M. Moonen, P. Patrinos
+- [https://arxiv.org/abs/2207.11559 Tensor-based Multi-view Spectral Clustering via Shared Latent Space]\n
+	Q. Tao, F. Tonin, P. Patrinos, J. Suykens
 - [https://arxiv.org/abs/1906.10053 Block-coordinate and incremental aggregated nonconvex proximal gradient methods: a unified view]\n
 	Mathematical Programming, vol. 193, pp. 195–224, 2022\n
 	P. Latafat, A. Themelis, P. Patrinos
@@ -24,6 +34,7 @@
 	European Control Conference (ECC), 2022\n
 	P. Pas, M. Schuurmans, P. Patrinos
 - [https://arxiv.org/abs/2111.08331 Learning MPC for interaction-aware autonomous driving: A game-theoretic approach]\n
+	European Control Conference (ECC), 2022\n
 	B. Evens, M. Schuurmans, P. Patrinos,
 - [https://openreview.net/forum?id=2_vhkAMARk Escaping limit cycles: Global convergence for constrained nonconvex-nonconcave minimax problems]\n
 	10th International Conference on Learning Representations (ICLR 2022), *spotlight*\n
